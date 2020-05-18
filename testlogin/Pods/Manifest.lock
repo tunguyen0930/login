@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - KeychainSwift (16.0.1)
+  - ObjectMapper (3.5.3)
+  - RxSwift (5.1.1)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.1)
+  - KeychainSwift (~> 16.0)
+  - ObjectMapper (~> 3.5.0)
+  - RxSwift (~> 5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KeychainSwift
+    - ObjectMapper
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  KeychainSwift: 4209611373ca4a098e09b1e547eebd87c544dcc4
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+
+PODFILE CHECKSUM: ffa70c5c28b9176b42f9d1f9d0a565507ccfdff3
+
+COCOAPODS: 1.9.1
